@@ -23,5 +23,5 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 A user clicks on slots on the color-coded calendar and edits the events.
-The deployed web is 
+The deployed web is https://kayjinyi.github.io/dayPlanner/
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/Screen%20Shot%202022-04-07%20at%2011.00.52%20PM.png)
