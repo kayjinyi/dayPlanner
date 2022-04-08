@@ -26,4 +26,5 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 A user clicks on slots on the color-coded calendar and edits the events.
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+The deployed web is 
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/Screen%20Shot%202022-04-07%20at%2011.00.52%20PM.png)
