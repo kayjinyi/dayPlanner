@@ -1,9 +1,6 @@
 # dayPlanner
 05 Third-Party APIs: Work Day Scheduler
-Your Task
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
 User Story
 AS AN employee with a busy schedule
@@ -26,7 +23,7 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 A user clicks on slots on the color-coded calendar and edits the events.
-The deployed web is 
+The deployed web is https://kayjinyi.github.io/dayPlanner/
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/Screen%20Shot%202022-04-07%20at%2011.00.52%20PM.png)
 ![A user could also save it](./assets/Screen%20Shot%202022-04-07%20at%2011.15.15%20PM.png)
 
