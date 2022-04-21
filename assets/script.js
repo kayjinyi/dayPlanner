@@ -10,6 +10,7 @@ function setTime(){
         // console.log(labelTime);
     },1000)
 }
+//change input
 setTime();
 const timeNow = moment().hour();
 $('textarea').each(function(index){
@@ -19,6 +20,12 @@ $('textarea').each(function(index){
     console.log(storage);
     if(timeNow > $(this).attr("id")){
         $(this).parent().addClass("past")
+    }
+    if(timeNow = $(this).attr("id")){
+        $(this).parent().addClass("present")
+    }
+    if(timeNow < $(this).attr("id")){
+        $(this).parent().addClass("future")
     }
 })
 $('button').each(function(index){
