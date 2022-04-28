@@ -49,7 +49,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 ## Mock-Up
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/Screen%20Shot%202022-04-07%20at%2011.00.52%20PM.png)
-![A user could also save it](./assets/Screen%20Shot%202022-04-07%20at%2011.15.15%20PM.png)
+![A user could also save it](./assets/Updated.png)
 
 ## Questions
 
